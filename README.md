@@ -1,11 +1,9 @@
-# Tlacitko
+# Tlačitko
 
 ## Účel/Zadání/Funkce
 
-* parní mlátička s elektronickým vstřikováním
-    * pára
-    * píst
-    * mikroprocesor
+* tlašicko reaguje an hranu 
+* při uvolnění tlačitla se přepne svit LED
 
 
 ## Schéma zapojení
