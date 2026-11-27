@@ -1,4 +1,4 @@
-# Tlačitko
+# Tlačitko ppřepíná svit LED
 
 ## Účel/Zadání/Funkce
 
@@ -7,7 +7,7 @@
 
 
 ## Schéma zapojení
-
+poéužívám 
 ![schéma zapojení](./docs/schema.png)
 
 ## Popis funkce
@@ -16,6 +16,10 @@
 2. samo se to
 
 ## ToDo
+
+
+
+
 
 * ještě chybí tamto
 
